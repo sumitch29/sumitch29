@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumitch29
+- 👋 Hi, I’m Sumit
 - 👀 I’m interested in Web Developement
 - 📫 How to reach me https://twitter.com/sumit__chavhan
 
